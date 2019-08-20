@@ -13,6 +13,8 @@ python爬虫篇
 
 资源推荐篇
 
+Django搭建个人blog篇
+
 
 
 ### python爬虫篇
@@ -36,4 +38,8 @@ python爬虫篇
 [推荐几个帮助你解决bug提升技术的网站](https://mp.weixin.qq.com/s/qjR1mcaFtmr_e0-hUfWD1g)
 
 [推荐几个高质量的自学网站](https://mp.weixin.qq.com/s/R6AGvFYchVB6nbUu2jo-CQ)
+
+
+
+Django搭建个人blog篇
 
