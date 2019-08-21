@@ -3,17 +3,11 @@
 
 
 
-##  微信公众号【panda一块砖】
-
-<img src=http://39.96.24.63/wp-content/uploads/2019/06/export1559829285250.jpg>
-
 ## 目录
 
-python爬虫篇
-
-资源推荐篇
-
-Django搭建个人blog篇
+- python爬虫篇
+- 资源推荐篇
+- Django搭建个人blog篇
 
 
 
@@ -45,5 +39,7 @@ Django搭建个人blog篇
 
 
 
+## 微信公众号【panda一块砖】
 
+<img src=http://39.96.24.63/wp-content/uploads/2019/06/export1559829285250.jpg>
 
