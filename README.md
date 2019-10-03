@@ -41,7 +41,7 @@
 
 ### 信息检索篇
 
-## 微信公众号【panda一块砖】
+## 微信公众号二维码
 
 <img src=http://39.96.24.63/wp-content/uploads/2019/06/export1559829285250.jpg>
 
