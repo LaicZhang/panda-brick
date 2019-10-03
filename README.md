@@ -23,7 +23,7 @@
 
 [爬虫篇（5）：信息标记与提取方法](https://mp.weixin.qq.com/s/dDe8GXx-ooOrIEgejd3USg)
 
-[python爬虫06 | 你的第一个爬虫，爬取当当网 Top 500 本五星好评书籍](https://mp.weixin.qq.com/s/QP4ngKmbNXS8_AlKqcEH_Q)
+[爬虫篇（6）：爬取当当网 Top 500 本五星好评书籍](https://mp.weixin.qq.com/s/QP4ngKmbNXS8_AlKqcEH_Q)
 
 
 ### 资源推荐篇
