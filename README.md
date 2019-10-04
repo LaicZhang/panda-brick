@@ -8,7 +8,7 @@
 - python爬虫篇
 - 资源推荐篇
 - Django搭建个人blog篇
-
+- 信息检索篇
 
 
 ### python爬虫篇
