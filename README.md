@@ -40,6 +40,8 @@
 
 
 ### 信息检索篇
+[信息检索篇（1）：信息差与智商税](https://mp.weixin.qq.com/s/6o6QvDK53TpOoRI-o309Ug)
+
 
 ## 微信公众号二维码
 
