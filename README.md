@@ -1,7 +1,7 @@
 # panda-brick
 配套微信公众号【panda一块砖】的项目源代码。
 
-说明：如果【panda一块砖】改名为【laiczhang】，请放心，还是我。
+说明：~~如果~~【panda一块砖】改名为【laiczhang】，请放心，还是我。
 
 ## 目录
 
