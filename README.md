@@ -41,7 +41,7 @@
 
 ### 信息检索篇
 [信息检索篇（1）：信息差与智商税](https://mp.weixin.qq.com/s/6o6QvDK53TpOoRI-o309Ug)
-
+[信息检索篇（2）：强势的搜索引擎](https://mp.weixin.qq.com/s/jYYLd47-P4Z-2LjVUiATLw)
 
 ## 微信公众号二维码
 
