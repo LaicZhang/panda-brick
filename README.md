@@ -45,6 +45,8 @@
 [信息检索篇（2）：强势的搜索引擎](https://mp.weixin.qq.com/s/jYYLd47-P4Z-2LjVUiATLw)
 
 [信息检索篇（3）：优化百度搜索结果](https://mp.weixin.qq.com/s/PiL9TBR1u9g9GZZYZMGUJA)
+
+[信息检索篇（4）：Google hacking入门](https://mp.weixin.qq.com/s/ULAwFuziRGR1Oy4SisbF5w)
 ## 微信公众号二维码
 
 <img src=http://39.96.24.63/wp-content/uploads/2019/06/export1559829285250.jpg>
